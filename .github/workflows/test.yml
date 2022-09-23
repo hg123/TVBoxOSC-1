@@ -30,7 +30,7 @@ jobs:
             branchName: main
           - userName: hg123
             repoName: Box
-            branchName: main2
+            branchName: main
     steps:
       - name: Checkout
         uses: actions/checkout@v3
