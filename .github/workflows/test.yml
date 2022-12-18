@@ -28,9 +28,9 @@ jobs:
           - userName: q215613905
             repoName: TVBoxOS
             branchName: main
-          - userName: takagen99
+          - userName: hg123
             repoName: Box
-            branchName: main
+            branchName: main1218
     steps:
       - name: Checkout
         uses: actions/checkout@v3
