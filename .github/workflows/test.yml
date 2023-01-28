@@ -28,7 +28,7 @@ jobs:
          // - userName: q215613905
          //   repoName: TVBoxOS
          //   branchName: main
-          - userName: hg123
+            userName: hg123
             repoName: Box
             branchName: main0109
     steps:
